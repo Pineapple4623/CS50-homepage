@@ -56,7 +56,7 @@ body {
 
 .cover-container {
   overflow: auto;
-  background-image: url('https://wallpapercave.com/wp/wp5248376.jpg');
+  background-image: url('https://wallpapercave.com/wp/wp5248376.jpg'), url('images/doom-eternal.jpg');
   background-size: cover;
   height: 100vh;
 
